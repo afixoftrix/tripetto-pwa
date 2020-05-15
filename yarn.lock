@@ -9982,6 +9982,16 @@ tr46@^1.0.1:
   dependencies:
     punycode "^2.1.0"
 
+tripetto-collector-rolling@^2.1.14:
+  version "2.1.14"
+  resolved "https://registry.yarnpkg.com/tripetto-collector-rolling/-/tripetto-collector-rolling-2.1.14.tgz#8d9bdec5f75f1840d0322f3dd1f6168d7f56e483"
+  integrity sha512-s88O8mXR1zQOr5EJhCzsN9g30vRet5diAa2qPjvcCyE+AdZVg4hQ8FWcWzGqw5UAlINtVc8Fl8v8b4OO+6WsEA==
+
+tripetto-collector@^1.7.0:
+  version "1.7.0"
+  resolved "https://registry.yarnpkg.com/tripetto-collector/-/tripetto-collector-1.7.0.tgz#1c35b6cfd088a1bb45d2ecc785afac389b69861c"
+  integrity sha512-o2ZKrTlu5mAXNINbwR3Hk0tSroAwoEgeKnxs/q1d3OPLa/lUhqwAgIqBcpvP3HJBlJjB3ipBnXsuQibt4XpEHA==
+
 ts-pnp@1.1.6, ts-pnp@^1.1.6:
   version "1.1.6"
   resolved "https://registry.yarnpkg.com/ts-pnp/-/ts-pnp-1.1.6.tgz#389a24396d425a0d3162e96d2b4638900fdc289a"
